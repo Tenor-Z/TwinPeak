@@ -1,5 +1,6 @@
 # TwinPeak
-![image](https://github.com/Tenor-Z/TwinPeak/assets/55516164/8eebd70b-fc36-4284-93be-e74440fb65d2)
+
+![logo](https://github.com/user-attachments/assets/8102b66d-e8ab-4f9c-8127-34743f90356d)
 
 A basic employee management system to manage and configure employee data with ease!
 
